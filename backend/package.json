@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-zhangmeilong-v3-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "张梅龙个人简历网站的 IMA 安全接入后端",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@fastify/cookie": "^11.0.2",
+    "@fastify/cors": "^10.0.2",
+    "@fastify/rate-limit": "^10.1.0",
+    "dotenv": "^16.5.0",
+    "fastify": "^5.3.3"
+  }
+}
