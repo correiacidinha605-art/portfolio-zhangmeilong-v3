@@ -745,7 +745,7 @@ function renderInterviewPreview() {
             anchor: "interview-jd-fill",
             title: "面试 JD 自动识别并填充",
             description: "复制招聘截图或粘贴 JD 文本后，系统自动识别公司名称、岗位名称和岗位 JD，减少手动录入成本。",
-            image: "assets/interview-preview-jd-fill.png"
+            image: "assets/optimized/interview-preview-jd-fill.jpg"
         },
         {
             index: "02",
@@ -759,35 +759,35 @@ function renderInterviewPreview() {
             anchor: "interview-list",
             title: "全部面试条目展示",
             description: "把不同公司的面试进度集中到同一个列表，展示阶段数、复盘状态、整体进度、最终结果和下一步动作。",
-            image: "assets/interview-preview-list.png"
+            image: "assets/optimized/interview-preview-list.jpg"
         },
         {
             index: "04",
             anchor: "interview-stage-add",
             title: "面试阶段添加",
             description: "支持新增一面、二面、三面、HR 面等阶段，补充面试时间、阶段结果、反馈和阶段记录。",
-            image: "assets/interview-preview-stage-add.png"
+            image: "assets/optimized/interview-preview-stage-add.jpg"
         },
         {
             index: "05",
             anchor: "interview-flow",
             title: "面试流程管理",
             description: "用阶段时间线管理完整面试流程，区分已通过、待面试、待录音和待添加阶段，形成清晰推进节奏。",
-            image: "assets/interview-preview-flow.png"
+            image: "assets/optimized/interview-preview-flow.jpg"
         },
         {
             index: "06",
             anchor: "interview-motivation-stage",
             title: "面试阶段激励",
             description: "阶段通过后弹出鼓励反馈，降低复盘工具的冷冰冰感，让用户在求职压力里获得即时正反馈。",
-            image: "assets/interview-preview-motivation-stage.png"
+            image: "assets/optimized/interview-preview-motivation-stage.jpg"
         },
         {
             index: "07",
             anchor: "interview-motivation-offer",
             title: "Offer 激励反馈",
             description: "最终通过后展示更强的庆祝反馈和陪伴式视觉元素，把流程管理和情绪价值结合起来。",
-            image: "assets/interview-preview-motivation-offer.png"
+            image: "assets/optimized/interview-preview-motivation-offer.jpg"
         },
         {
             index: "08",
@@ -801,21 +801,21 @@ function renderInterviewPreview() {
             anchor: "interview-report",
             title: "面试分析：复盘报告",
             description: "生成综合得分、状态、录音概览、岗位信息与复盘摘要，帮助用户快速判断这一轮面试表现。",
-            image: "assets/interview-preview-upload.png"
+            image: "assets/optimized/interview-preview-upload.jpg"
         },
         {
             index: "10",
             anchor: "interview-transcript",
             title: "面试分析：录音转写",
             description: "按说话人和时间轴展示转写片段，保留完整上下文，方便回看关键问题和回答细节。",
-            image: "assets/interview-preview-transcript.png"
+            image: "assets/optimized/interview-preview-transcript.jpg"
         },
         {
             index: "11",
             anchor: "interview-question-analysis",
             title: "面试分析：问题梳理",
             description: "结合转写文本和大模型分析，提炼问题、原始问法、回答摘要和原回答片段，沉淀可练习素材。",
-            image: "assets/interview-preview-question-analysis.png"
+            image: "assets/optimized/interview-preview-question-analysis.jpg"
         }
     ];
 
